@@ -1,16 +1,17 @@
-## Hi there 👋
+#Привет, меня зовут Владислав! 👋
 
-<!--
-**SannikovVladislav/SannikovVladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне
+Я начинающий iOS-разработчик из Санкт-Петербурга, увлеченный созданием красивых и функциональных приложений. В постоянном поиске новых знаний и интересных задач.
 
-Here are some ideas to get you started:
+## 🛠 Мой стек технологий
+*   **Язык:** Swift
+*   **UI Frameworks:** UIKit, SwiftUI, Auto Layout
+*   **Архитектуры:** MVC, MVVM, Coordinator
+*   **Хранение данных:** UserDefaults, Core Data, Realm
+*   **Многопоточность:** Grand Central Dispatch (GCD)
+*   **Сетевое взаимодействие:** URLSession, Alamofire
+*   **Инструменты:** Git, GitHub, Xcode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Как со мной связаться?
+*   **Email:** sannikovladislav@mail.ru
+*   **Telegram:** [@vladissann]
