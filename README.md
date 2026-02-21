@@ -59,4 +59,8 @@
 
 ### 🐍 Змейка, поедающая мои коммиты
 
-![Змейка, поедающая коммиты](https://github.com/SannikovVladislav/SannikovVladislav/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SannikovVladislav/SannikovVladislav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SannikovVladislav/SannikovVladislav/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/SannikovVladislav/SannikovVladislav/output/github-contribution-grid-snake.svg">
+</picture>
