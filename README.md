@@ -14,26 +14,35 @@
 ### ⚡ Мой стек и инструменты
 
 **iOS & Swift**
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0077B5?style=for-the-badge&logo=swift&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-F9B5A0?style=plastic&logo=swift&logoColor=white" width="70"/>
+  <img src="https://img.shields.io/badge/UIKit-A0C4FF?style=plastic&logo=uikit&logoColor=white" width="70"/>
+  <img src="https://img.shields.io/badge/SwiftUI-B5D0FF?style=plastic&logo=swift&logoColor=white" width="80"/>
+</p>
 
-**Архитектура и данные**
-![MVC](https://img.shields.io/badge/MVC-007396?style=for-the-badge&logo=apple&logoColor=white)
-![MVP](https://img.shields.io/badge/MVP-007396?style=for-the-badge&logo=apple&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-007396?style=for-the-badge&logo=apple&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core%20Data-092E20?style=for-the-badge&logo=apple&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![UserDefaults](https://img.shields.io/badge/UserDefaults-FF9900?style=for-the-badge&logo=apple&logoColor=white)
+**Работа с данными**
+<p align="center">
+  <img src="https://img.shields.io/badge/CoreData-C5B4E3?style=plastic&logo=databricks&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/URLSession-FFB6C1?style=plastic&logo=internetexplorer&logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/GCD-A9A9A9?style=plastic&logo=concourse&logoColor=white" width="70"/>
+</p>
 
-**Сеть и многопоточность**
-![URLSession](https://img.shields.io/badge/URLSession-FF6C37?style=for-the-badge&logo=apple&logoColor=white)
-![GCD](https://img.shields.io/badge/GCD-007396?style=for-the-badge&logo=apple&logoColor=white)
+**UI Компоненты**
+<p align="center">
+  <img src="https://img.shields.io/badge/UITableView-A0C4FF?style=plastic&logo=tableau&logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/UICollectionView-B5B0FF?style=plastic&logo=celery&logoColor=white" width="140"/>
+  <img src="https://img.shields.io/badge/Темная%20тема-A9A9A9?style=plastic&logo=darkreader&logoColor=white" width="120"/>
+  <img src="https://img.shields.io/badge/Локализация-D9B0FF?style=plastic&logo=googletranslate&logoColor=white" width="120"/>
+</p>
 
-**Инструменты**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Инструменты разработки**
+<p align="center">
+  <img src="https://img.shields.io/badge/Xcode-A0C4FF?style=plastic&logo=xcode&logoColor=white" width="80"/>
+  <img src="https://img.shields.io/badge/Git-FFB08C?style=plastic&logo=git&logoColor=white" width="60"/>
+  <img src="https://img.shields.io/badge/AppMetrica-FFB6C1?style=plastic&logo=yandexcloud&logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/SwiftLogger-FFF1B8?style=plastic&logo=swift&logoColor=black" width="120"/>
+  <img src="https://img.shields.io/badge/Snapshot%20Testing-B7E3B1?style=plastic&logo=jest&logoColor=white" width="150"/>
+</p>
 
 ---
 
